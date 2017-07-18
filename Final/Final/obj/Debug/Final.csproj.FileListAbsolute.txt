@@ -1,4 +1,3 @@
-c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
 c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\bin\roslyn\csc.exe
 c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -67,3 +66,4 @@ c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\bin\Micro
 c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.dll
 c:\users\ultimatexps\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.pdb
+C:\Users\UltimateXPS\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
